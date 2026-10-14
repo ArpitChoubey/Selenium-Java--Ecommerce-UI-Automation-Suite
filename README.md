@@ -1,4 +1,4 @@
-# 🚀 Client Project | E-Commerce UI Automation Framework using Selenium WebDriver | 🔵 Azure DevOps | CI/CD & Pipeline Automation |
+# 🚀  E-Commerce UI Automation Framework using Selenium WebDriver | 🔵 Azure DevOps | CI/CD & Pipeline Automation |
 
 <p align="center">
 
