@@ -17,7 +17,7 @@
 
 ---
 
-# 🛒 Client Project – E-Commerce UI Automation Framework
+#  Project – E-Commerce UI Automation Framework
 
 A production-ready Selenium Automation Framework built using **Java**, **Selenium WebDriver**, and **Maven**, designed to simulate the architecture and coding standards used in enterprise client automation projects.
 
